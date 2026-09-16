@@ -1,0 +1,13 @@
+{
+  "name":"OTTO Forest Lodge reference model",
+  "address":"13–15 Ross Street, Forest Lodge, NSW, Australia",
+  "basis":"Public property pages and a real exterior reference image; exact survey dimensions were not published.",
+  "scenes":{
+    "exterior":["three-storey massing (schematic)","white facade","dark window frames","ground-floor timber slats","entry canopy","glazed lobby","balcony rails","landscaping"],
+    "amenities":["social and study area","TV and games room","shared kitchen","laundry facilities","BBQ area","front desk / lounge (schematic)"],
+    "room":{"type":"Deluxe Single Studio","area":"approx. 23 m²","confirmed":["bed","study desk","built-in wardrobe","private kitchen","private bathroom","fully furnished","personal air-conditioner"],"layout":"schematic"},
+    "neighborhood":{"confirmed":["Ross Street address","Forest Lodge","close to University of Sydney","nearby parks, cafes, Glebe/Chinatown precincts"],"layout":"concept diagram, not a survey map"}
+  },
+  "sources":["https://gracehealeyproperty.com.au/forest-lodge/","https://gracehealeyproperty.com.au/fl-deluxe-single-studio/","https://www.uhouzz.com/au/sydney/detail-apartments-1620575?schoolunique=kambala-school","https://studenthousing.uniapplynow.com/properties/am-1990249"]
+}
+
